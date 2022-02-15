@@ -6,6 +6,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <div>woshi vite</div>
+  <el-button>dasdasda</el-button>
 </template>
 
 <style lang="scss">
